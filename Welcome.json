@@ -9,15 +9,11 @@
     }
 ],
 "repository": {
-    ...
     "name": "testrepo",
-    ...
     "owner": {
-        ...
+        "name":"Gurneet"
     },
-    "html_url": "https://github.com/...",
-    ...
-},
+}
 "sender": {
     "login": "..."
     ...
